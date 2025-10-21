@@ -77,6 +77,10 @@ const HomePage = () => {
             ))}
           </div>
         </div>
+
+        <div className="mt-12">
+          Última atualização: 21/07/2025
+        </div>
       </div>
     </section>
   );
