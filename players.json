@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Marcus",
+    "total_wins": 7,
+    "actual_wins": 1,
+    "trophies": 0,
+    "path": "/assets/images/avatars/"
+  },
+  {
+    "id": 2,
+    "name": "Bernardo",
+    "total_wins": 10,
+    "actual_wins": 0,
+    "trophies": 1,
+    "path": "/assets/images/avatars/"
+  },
+  {
+    "id": 3,
+    "name": "Isaac",
+    "total_wins": 7,
+    "actual_wins": 0,
+    "trophies": 0,
+    "path": "/assets/images/avatars/"
+  },
+  {
+    "id": 4,
+    "name": "Mateus",
+    "total_wins": 3,
+    "actual_wins": 1,
+    "trophies": 0,
+    "path": "/assets/images/avatars/"
+  },
+  {
+    "id": 5,
+    "name": "Pedro",
+    "total_wins": 5,
+    "actual_wins": 0,
+    "trophies": 0,
+    "path": "/assets/images/avatars/"
+  },
+  {
+    "id": 6,
+    "name": "Rafa Perdomo",
+    "total_wins": 5,
+    "actual_wins": 0,
+    "trophies": 0,
+    "path": "/assets/images/avatars/"
+  },
+  {
+    "id": 7,
+    "name": "Thiago",
+    "total_wins": 3,
+    "actual_wins": 0,
+    "trophies": 0,
+    "path": "/assets/images/avatars/"
+  },
+  {
+    "id": 8,
+    "name": "Ulisses",
+    "total_wins": 0,
+    "actual_wins": 0,
+    "trophies": 0,
+    "path": "/assets/images/avatars/"
+  },
+  {
+    "id": 9,
+    "name": "Matheus Basilio",
+    "total_wins": 1,
+    "actual_wins": 0,
+    "trophies": 0,
+    "path": "/assets/images/avatars/"
+  },
+  {
+    "id": 10,
+    "name": "Alencar",
+    "total_wins": 1,
+    "actual_wins": 0,
+    "trophies": 0,
+    "path": "/assets/images/avatars/"
+  }
+]
