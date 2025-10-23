@@ -19,7 +19,7 @@
     "id": 3,
     "name": "Isaac",
     "total_wins": 7,
-    "actual_wins": 0,
+    "actual_wins": 1,
     "trophies": 0,
     "path": "/assets/images/avatars/"
   },
@@ -35,7 +35,7 @@
     "id": 5,
     "name": "Pedro",
     "total_wins": 5,
-    "actual_wins": 2,
+    "actual_wins": 3,
     "trophies": 0,
     "path": "/assets/images/avatars/"
   },
