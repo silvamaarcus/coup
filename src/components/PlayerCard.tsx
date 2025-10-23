@@ -28,7 +28,7 @@ const PlayerCard = ({
         </div>
 
         {/* Verso */}
-        <div className="bg-card-back absolute inset-0 flex [transform:rotateY(180deg)] flex-col items-center justify-center gap-2 rounded-xl text-center shadow-lg backface-hidden">
+        <div className="bg-card-back absolute inset-0 flex [transform:rotateY(180deg)] flex-col items-center justify-center gap-2 rounded-xl text-center shadow-lg backface-hidden bg-white">
           <h1 className="text-foreground w-32 truncate text-lg font-bold">
             {name}
           </h1>
