@@ -6,6 +6,7 @@ interface PlayerCardProps {
   actual_wins: number;
   trophies: number;
   path: string;
+  className?: string;
 }
 
 const PlayerCard = ({
@@ -14,9 +15,10 @@ const PlayerCard = ({
   actual_wins,
   trophies,
   path,
+  className,
 }: PlayerCardProps) => {
   return (
-    <div className="group h-60 w-40 [perspective:1000px]">
+    <div className={`group h-80 w-50 ${className}`}>
       <div className="relative h-full w-full transition-transform duration-700 [transform-style:preserve-3d] group-hover:[transform:rotateY(180deg)]">
         {/* Frente */}
         <div className="bg-card-front absolute inset-0 flex items-center justify-center rounded-xl shadow-lg backface-hidden">
@@ -28,7 +30,7 @@ const PlayerCard = ({
         </div>
 
         {/* Verso */}
-        <div className="bg-card-back absolute inset-0 flex [transform:rotateY(180deg)] flex-col items-center justify-center gap-2 rounded-xl text-center shadow-lg backface-hidden bg-white">
+        <div className="bg-card-back absolute inset-0 flex [transform:rotateY(180deg)] flex-col items-center justify-center gap-2 rounded-xl text-center shadow-lg backface-hidden">
           <h1 className="text-foreground w-32 truncate text-lg font-bold">
             {name}
           </h1>
