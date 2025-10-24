@@ -10,16 +10,16 @@
   {
     "id": 2,
     "name": "Bernardo",
-    "total_wins": 10,
-    "actual_wins": 0,
+    "total_wins": 12,
+    "actual_wins": 2,
     "trophies": 1,
     "path": "bernardo.jpeg"
   },
   {
     "id": 3,
     "name": "Isaac",
-    "total_wins": 8,
-    "actual_wins": 1,
+    "total_wins": 10,
+    "actual_wins": 2,
     "trophies": 0,
     "path": "@/assets/images/avatars/"
   },
@@ -34,16 +34,16 @@
   {
     "id": 5,
     "name": "Pedro",
-    "total_wins": 6,
-    "actual_wins": 3,
+    "total_wins": 9,
+    "actual_wins": 6,
     "trophies": 0,
     "path": "@/assets/images/avatars/"
   },
   {
     "id": 6,
     "name": "Rafa Perdomo",
-    "total_wins": 5,
-    "actual_wins": 0,
+    "total_wins": 7,
+    "actual_wins": 2,
     "trophies": 0,
     "path": "@/assets/images/avatars/"
   },
