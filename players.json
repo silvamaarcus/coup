@@ -34,8 +34,8 @@
   {
     "id": 5,
     "name": "Pedro",
-    "total_wins": 9,
-    "actual_wins": 6,
+    "total_wins": 10,
+    "actual_wins": 7,
     "trophies": 0,
     "path": "@/assets/images/avatars/"
   },
@@ -66,8 +66,8 @@
   {
     "id": 9,
     "name": "Mateus Basilio",
-    "total_wins": 1,
-    "actual_wins": 0,
+    "total_wins": 2,
+    "actual_wins": 1,
     "trophies": 0,
     "path": "@/assets/images/avatars/"
   },
