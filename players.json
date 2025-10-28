@@ -34,8 +34,8 @@
   {
     "id": 5,
     "name": "Pedro",
-    "total_wins": 12,
-    "current_wins": 9,
+    "total_wins": 11,
+    "current_wins": 8,
     "trophies": 0,
     "path": "/assets/images/avatars/pedro.jpg"
   },
@@ -58,8 +58,8 @@
   {
     "id": 8,
     "name": "Ulisses",
-    "total_wins": 0,
-    "current_wins": 0,
+    "total_wins": 1,
+    "current_wins": 1,
     "trophies": 0,
     "path": "/assets/images/avatars/"
   },
