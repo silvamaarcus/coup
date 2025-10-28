@@ -19,7 +19,7 @@
     "id": 3,
     "name": "Isaac",
     "total_wins": 10,
-    "actual_wins": 2,
+    "actual_wins": 3,
     "trophies": 0,
     "path": "@/assets/images/avatars/"
   },
