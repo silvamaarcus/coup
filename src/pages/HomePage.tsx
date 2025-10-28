@@ -49,7 +49,7 @@ const HomePage = () => {
           </div>
 
           {/*  Demais jogadores */}
-          <div className="mt-16 flex flex-wrap justify-center gap-6">
+          <div className="my-16 flex flex-wrap justify-center gap-6">
             {others.map((player) => (
               <PlayerCard
                 key={player.id}
