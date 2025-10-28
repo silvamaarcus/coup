@@ -13,7 +13,7 @@
     "total_wins": 12,
     "current_wins": 2,
     "trophies": 1,
-    "path": "bernardo.jpg"
+    "path": "/assets/images/avatars/bernardo.jpg"
   },
   {
     "id": 3,
@@ -29,7 +29,7 @@
     "total_wins": 4,
     "current_wins": 2,
     "trophies": 0,
-    "path": "matheus.png"
+    "path": "/assets/images/avatars/matheus.png"
   },
   {
     "id": 5,
