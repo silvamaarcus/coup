@@ -5,7 +5,7 @@
     "total_wins": 7,
     "current_wins": 2,
     "trophies": 0,
-    "path": "marcus.jpg"
+    "path": "/assets/images/avatars/marcus.jpg"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "total_wins": 12,
     "current_wins": 2,
     "trophies": 1,
-    "path": "bernardo.jpeg"
+    "path": "bernardo.jpg"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "total_wins": 10,
     "current_wins": 3,
     "trophies": 0,
-    "path": "public/assets/images/avatars/isaac.jpg"
+    "path": "/assets/images/avatars/isaac.jpg"
   },
   {
     "id": 4,
@@ -37,7 +37,7 @@
     "total_wins": 11,
     "current_wins": 8,
     "trophies": 0,
-    "path": "public/assets/images/avatars/pedro.png"
+    "path": "/assets/images/avatars/pedro.jpg"
   },
   {
     "id": 6,
@@ -45,7 +45,7 @@
     "total_wins": 7,
     "current_wins": 2,
     "trophies": 0,
-    "path": "@/assets/images/avatars/"
+    "path": "/assets/images/avatars/"
   },
   {
     "id": 7,
@@ -53,7 +53,7 @@
     "total_wins": 3,
     "current_wins": 0,
     "trophies": 0,
-    "path": "@/assets/images/avatars/"
+    "path": "/assets/images/avatars/"
   },
   {
     "id": 8,
@@ -61,7 +61,7 @@
     "total_wins": 0,
     "current_wins": 0,
     "trophies": 0,
-    "path": "@/assets/images/avatars/"
+    "path": "/assets/images/avatars/"
   },
   {
     "id": 9,
@@ -69,7 +69,7 @@
     "total_wins": 2,
     "current_wins": 1,
     "trophies": 0,
-    "path": "@/assets/images/avatars/"
+    "path": "/assets/images/avatars/"
   },
   {
     "id": 10,
@@ -77,6 +77,6 @@
     "total_wins": 1,
     "current_wins": 0,
     "trophies": 0,
-    "path": "@/assets/images/avatars/"
+    "path": "/assets/images/avatars/"
   }
 ]
