@@ -3,7 +3,7 @@ import { Trophy } from "lucide-react";
 interface PlayerCardProps {
   name: string;
   total_wins: number;
-  actual_wins: number;
+  current_wins: number;
   trophies: number;
   path: string;
   className?: string;
@@ -12,7 +12,7 @@ interface PlayerCardProps {
 const PlayerCard = ({
   name,
   total_wins,
-  actual_wins,
+  current_wins,
   trophies,
   path,
   className,
@@ -30,7 +30,7 @@ const PlayerCard = ({
         </div>
 
         {/* Verso */}
-        <div className="bg-card-back absolute inset-0 flex [transform:rotateY(180deg)] flex-col items-center justify-center gap-2 rounded-xl text-center shadow-lg backface-hidden">
+        <div className="bg-card-back bg-white absolute inset-0 flex [transform:rotateY(180deg)] flex-col items-center justify-center gap-2 rounded-xl text-center shadow-lg backface-hidden">
           <h1 className="text-foreground w-32 truncate text-lg font-bold">
             {name}
           </h1>
@@ -41,7 +41,7 @@ const PlayerCard = ({
           <span className="text-muted-foreground text-xs">
             Vitórias Totais: {total_wins}
             <br />
-            Vitórias Atuais: {actual_wins}
+            Vitórias Atuais: {current_wins}
           </span>
         </div>
       </div>

@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Marcus",
     "total_wins": 7,
-    "actual_wins": 2,
+    "current_wins": 2,
     "trophies": 0,
     "path": "marcus.jpeg"
   },
@@ -11,7 +11,7 @@
     "id": 2,
     "name": "Bernardo",
     "total_wins": 12,
-    "actual_wins": 2,
+    "current_wins": 2,
     "trophies": 1,
     "path": "bernardo.jpeg"
   },
@@ -19,31 +19,31 @@
     "id": 3,
     "name": "Isaac",
     "total_wins": 10,
-    "actual_wins": 3,
+    "current_wins": 3,
     "trophies": 0,
-    "path": "@/assets/images/avatars/"
+    "path": "public/assets/images/avatars/isaac.jpg"
   },
   {
     "id": 4,
     "name": "Matheus",
     "total_wins": 4,
-    "actual_wins": 2,
+    "current_wins": 2,
     "trophies": 0,
-    "path": "@/assets/images/avatars/"
+    "path": "matheus.png"
   },
   {
     "id": 5,
     "name": "Pedro",
     "total_wins": 11,
-    "actual_wins": 8,
+    "current_wins": 8,
     "trophies": 0,
-    "path": "@/assets/images/avatars/"
+    "path": "public/assets/images/avatars/pedro.png"
   },
   {
     "id": 6,
     "name": "Rafa Perdomo",
     "total_wins": 7,
-    "actual_wins": 2,
+    "current_wins": 2,
     "trophies": 0,
     "path": "@/assets/images/avatars/"
   },
@@ -51,7 +51,7 @@
     "id": 7,
     "name": "Thiago",
     "total_wins": 3,
-    "actual_wins": 0,
+    "current_wins": 0,
     "trophies": 0,
     "path": "@/assets/images/avatars/"
   },
@@ -59,7 +59,7 @@
     "id": 8,
     "name": "Ulisses",
     "total_wins": 0,
-    "actual_wins": 0,
+    "current_wins": 0,
     "trophies": 0,
     "path": "@/assets/images/avatars/"
   },
@@ -67,7 +67,7 @@
     "id": 9,
     "name": "Mateus Basilio",
     "total_wins": 2,
-    "actual_wins": 1,
+    "current_wins": 1,
     "trophies": 0,
     "path": "@/assets/images/avatars/"
   },
@@ -75,7 +75,7 @@
     "id": 10,
     "name": "Alencar",
     "total_wins": 1,
-    "actual_wins": 0,
+    "current_wins": 0,
     "trophies": 0,
     "path": "@/assets/images/avatars/"
   }

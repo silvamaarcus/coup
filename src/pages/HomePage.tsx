@@ -7,7 +7,7 @@ import { Crown } from "lucide-react";
 const HomePage = () => {
   // Ordenar por vitórias atuais
   const sortedPlayers = [...playersData].sort(
-    (a, b) => b.actual_wins - a.actual_wins,
+    (a, b) => b.current_wins - a.current_wins,
   );
 
   // Separar pódio e restante
@@ -29,7 +29,7 @@ const HomePage = () => {
             )}
 
             {podium[0] && (
-              <div className="flex flex-col items-center">
+              <div className="flex flex-col items-center gap-2">
                 <div className="mb-6 text-sm font-semibold text-yellow-500">
                   <Crown size="64px" />
                 </div>
