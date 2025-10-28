@@ -59,8 +59,6 @@ const HomePage = () => {
             ))}
           </div>
         </div>
-
-        <div className="mt-16">Última atualização: 23/07/2025</div>
       </div>
     </section>
   );
