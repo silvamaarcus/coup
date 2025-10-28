@@ -54,7 +54,7 @@ const HomePage = () => {
               <PlayerCard
                 key={player.id}
                 {...player}
-                path={`/public/assets/images/avatars/${player.path}`}
+                path={player.path}
               />
             ))}
           </div>
