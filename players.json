@@ -26,8 +26,8 @@
   {
     "id": 4,
     "name": "Matheus",
-    "total_wins": 3,
-    "actual_wins": 1,
+    "total_wins": 4,
+    "actual_wins": 2,
     "trophies": 0,
     "path": "@/assets/images/avatars/"
   },
