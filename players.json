@@ -18,16 +18,16 @@
   {
     "id": 3,
     "name": "Isaac",
-    "total_wins": 11,
-    "current_wins": 4,
+    "total_wins": 12,
+    "current_wins": 5,
     "trophies": 0,
     "path": "/assets/images/avatars/isaac.jpg"
   },
   {
     "id": 4,
     "name": "Matheus",
-    "total_wins": 4,
-    "current_wins": 2,
+    "total_wins": 5,
+    "current_wins": 3,
     "trophies": 0,
     "path": "/assets/images/avatars/matheus.jpg"
   },
