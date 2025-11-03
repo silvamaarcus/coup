@@ -10,8 +10,8 @@
   {
     "id": 2,
     "name": "Bernardo",
-    "total_wins": 14,
-    "current_wins": 4,
+    "total_wins": 15,
+    "current_wins": 5,
     "trophies": 1,
     "path": "/assets/images/avatars/bernardo.jpg"
   },
@@ -50,8 +50,8 @@
   {
     "id": 7,
     "name": "Thiago",
-    "total_wins": 4,
-    "current_wins": 1,
+    "total_wins": 5,
+    "current_wins": 2,
     "trophies": 0,
     "path": "/assets/images/avatars/"
   },
