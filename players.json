@@ -2,8 +2,8 @@
   {
     "id": 1,
     "name": "Marcus",
-    "total_wins": 9,
-    "current_wins": 0,
+    "total_wins": 10,
+    "current_wins": 1,
     "trophies": 0,
     "path": "/assets/images/avatars/marcus.jpg"
   },
