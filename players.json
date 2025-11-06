@@ -10,8 +10,8 @@
   {
     "id": 2,
     "name": "Bernardo",
-    "total_wins": 15,
-    "current_wins": 0,
+    "total_wins": 16,
+    "current_wins": 1,
     "trophies": 1,
     "path": "/assets/images/avatars/bernardo.jpg"
   },
@@ -42,8 +42,8 @@
   {
     "id": 6,
     "name": "Rafa Perdomo",
-    "total_wins": 10,
-    "current_wins": 0,
+    "total_wins": 13,
+    "current_wins": 2,
     "trophies": 0,
     "path": "/assets/images/avatars/"
   },
@@ -58,8 +58,8 @@
   {
     "id": 8,
     "name": "Ulisses",
-    "total_wins": 1,
-    "current_wins": 0,
+    "total_wins": 2,
+    "current_wins": 1,
     "trophies": 0,
     "path": "/assets/images/avatars/ulisses.jpg"
   },
