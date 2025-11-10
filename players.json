@@ -34,16 +34,16 @@
   {
     "id": 5,
     "name": "Pedro",
-    "total_wins": 13,
-    "current_wins": 0,
+    "total_wins": 14,
+    "current_wins": 1,
     "trophies": 1,
     "path": "/assets/images/avatars/pedro.jpg"
   },
   {
     "id": 6,
     "name": "Rafa Perdomo",
-    "total_wins": 13,
-    "current_wins": 2,
+    "total_wins": 14,
+    "current_wins": 3,
     "trophies": 0,
     "path": "/assets/images/avatars/"
   },
