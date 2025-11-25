@@ -26,8 +26,8 @@
   {
     "id": 4,
     "name": "Matheus",
-    "total_wins": 5,
-    "current_wins": 0,
+    "total_wins": 6,
+    "current_wins": 1,
     "trophies": 0,
     "path": "/assets/images/avatars/matheus.jpg"
   },
@@ -58,8 +58,8 @@
   {
     "id": 8,
     "name": "Ulisses",
-    "total_wins": 3,
-    "current_wins": 2,
+    "total_wins": 4,
+    "current_wins": 3,
     "trophies": 0,
     "path": "/assets/images/avatars/ulisses.jpg"
   },
